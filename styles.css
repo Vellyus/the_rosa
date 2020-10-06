@@ -506,7 +506,7 @@ footer {
     }
 
     .nav-item:last-child {
-        margin: 0;
+        margin-right: 0;
     }
 
     .nav-link {
