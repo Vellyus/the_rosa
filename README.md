@@ -1,2 +1,2 @@
 # the_rosa
-Landing page demo.
+Landing page demo from a Youtube tutorial.
